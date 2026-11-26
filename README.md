@@ -6,13 +6,13 @@
 
 Python ile geliştirdiğim modern arayüzlü masaüstü portföy yönetim aracı
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6FEB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](badges/python.svg)
+![CustomTkinter](badges/customtkinter.svg)
+![Matplotlib](badges/matplotlib.svg)
+![SQLite](badges/sqlite.svg)
 
-![Veri](https://img.shields.io/badge/fiyatlar-canl%C4%B1-2E7D32?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-Windows_masa%C3%BCst%C3%BC-0078D6?style=flat-square)
+![Veri](badges/veri.svg)
+![Platform](badges/platform.svg)
 
 <br>
 
