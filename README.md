@@ -11,8 +11,8 @@ Python ile geliştirdiğim modern arayüzlü masaüstü portföy yönetim aracı
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Veri](https://img.shields.io/badge/fiyatlar-canlı-2E7D32?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-Windows_masaüstü-0078D6?style=flat-square)
+![Veri](https://img.shields.io/badge/fiyatlar-canl%C4%B1-2E7D32?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Windows_masa%C3%BCst%C3%BC-0078D6?style=flat-square)
 
 <br>
 
