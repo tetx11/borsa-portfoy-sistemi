@@ -87,6 +87,6 @@ Varlık dağılımı, kâr/zarar karşılaştırması ve portföyün değer geç
 
 Bu depo yalnızca projenin tanıtımı içindir; kaynak kodu paylaşılmamaktadır.
 
-**[tetik.dev](https://tetik.dev/projects.html)** · Muhammed Ali Tetik
+**[tetik.dev](https://tetik.dev)** · Muhammed Ali Tetik
 
 </div>
