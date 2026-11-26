@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📈 Borsa Portföy Sistemi
+# Borsa Portföy Sistemi
 
 ### Hisse, kripto ve fon yatırımlarını tek ekrandan takip et
 
@@ -22,31 +22,31 @@ Python ile geliştirdiğim modern arayüzlü masaüstü portföy yönetim aracı
 
 ---
 
-## 📖 Hakkında
+## Hakkında
 
 Farklı platformlarda dağınık duran yatırımları tek bir yerde toplamak için geliştirdiğim bir masaüstü uygulaması. Hisse senedi, kripto para ve yatırım fonu pozisyonlarını ekliyorsun; uygulama güncel fiyatları kendisi çekiyor, maliyetini, kâr/zararını ve tahmini vergini hesaplıyor, portföyünün zaman içindeki değişimini grafiklerle gösteriyor.
 
 Arayüzü CustomTkinter ile sıfırdan, kendi bileşen kütüphanemi (kartlar, KPI kutuları, rozetler, bildirimler) oluşturarak tasarladım. Amacım, bir masaüstü Python uygulamasının da modern bir finans uygulaması kadar şık ve anlaşılır görünebileceğini göstermekti.
 
-## ✨ Özellikler
+## Özellikler
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Genel Bakış
+### Genel Bakış
 Portföyün bugünkü değeri, toplam maliyet, net kâr/zarar ve tahmini vergi tek bakışta
 
-### 💼 Varlıklar
+### Varlıklar
 Tüm pozisyonlar tek tabloda; bir satıra tıklayınca varlığın ayrıntısı, istatistikleri ve fiyat grafiği açılır
 
 </td>
 <td width="50%" valign="top">
 
-### 🔁 İşlemler
+### İşlemler
 Alım ve satım geçmişi, gerçekleşen kâr/zarar ve satışlardan doğan vergi
 
-### 📊 Analiz
+### Analiz
 Varlık dağılımı, kâr/zarar karşılaştırması ve portföyün değer geçmişi grafikleri
 
 </td>
@@ -54,14 +54,14 @@ Varlık dağılımı, kâr/zarar karşılaştırması ve portföyün değer geç
 </table>
 
 **Ayrıca:**
-- 🔄 Güncel fiyatların otomatik çekilmesi (hisse ve kripto için Yahoo Finance, TEFAS fonları için ayrı kaynak)
-- 💱 USD/TRY kuruyla farklı para birimindeki varlıkların TL karşılığı
-- 🧾 "Şu an satılsa" tahmini vergi ve vergi sonrası net kâr/zarar
-- 📈 Grafiklerde fareyle üzerine gelince değer gösteren etkileşimli ipuçları
-- 📤 Portföyü Excel dosyasına aktarma
-- 💾 Tüm veriler yerelde, SQLite veritabanında
+- Güncel fiyatların otomatik çekilmesi (hisse ve kripto için Yahoo Finance, TEFAS fonları için ayrı kaynak)
+- USD/TRY kuruyla farklı para birimindeki varlıkların TL karşılığı
+- "Şu an satılsa" tahmini vergi ve vergi sonrası net kâr/zarar
+- Grafiklerde fareyle üzerine gelince değer gösteren etkileşimli ipuçları
+- Portföyü Excel dosyasına aktarma
+- Tüm veriler yerelde, SQLite veritabanında
 
-## 🖼️ Ekran görüntüleri
+## Ekran görüntüleri
 
 <table>
 <tr>
@@ -70,7 +70,7 @@ Varlık dağılımı, kâr/zarar karşılaştırması ve portföyün değer geç
 </tr>
 </table>
 
-## 🛠️ Teknik yapı
+## Teknik yapı
 
 | Alan | Kullanılan |
 |---|---|
@@ -85,7 +85,7 @@ Varlık dağılımı, kâr/zarar karşılaştırması ve portföyün değer geç
 
 <div align="center">
 
-🔒 Bu depo yalnızca projenin tanıtımı içindir; kaynak kodu paylaşılmamaktadır.
+Bu depo yalnızca projenin tanıtımı içindir; kaynak kodu paylaşılmamaktadır.
 
 **[tetik.dev](https://tetik.dev/projects.html)** · Muhammed Ali Tetik
 
